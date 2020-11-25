@@ -1,4 +1,4 @@
-# wsa_nanogenmo
+# wsa_nanogenmo_2020
 Code for WSA NaNoGenMo novel. 
 
 This is a project run by by Lesia Tkacz and Noriko Suzuki-Bosco. Collaborating authors are listed in the PDF of the submitted generated novel.
