@@ -1,7 +1,7 @@
 from utilities import create_input_corpus, train_model, table_of_contents_builder, novel_generator, text_formatter, \
     novel_length, novel_version_maker
 
-input_corpus = create_input_corpus('festival_input_texts')
+input_corpus = create_input_corpus('wsa_input_texts')
 textmodel = train_model(input_corpus)
 
 # gets a tuple containing (generted text as list, number of chapters)
