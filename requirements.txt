@@ -1,0 +1,4 @@
+nltk ~= 3.5
+markovify ~= 0.8.3
+
+
